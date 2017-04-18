@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Making Form Input Box </title>
+</head>
+
+<body>
+
+<form action=""method="">
+
+<lable for="firstname">First Name:</lable>
+<input type="text" id="firstname" name="" size="30">
+<br>
+<br>
+<label for="password">Password:</lable>
+<input type="text" id="lastname" name="">
+
+
+</form>
+</body>
+</html
